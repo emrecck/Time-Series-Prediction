@@ -1,0 +1,8 @@
+Spyder , Pycharm ...
+Tensorflow 2x.
+Numpy
+Keras
+Seaborn
+Matplotlib
+Scikit-learn
+Pandas
